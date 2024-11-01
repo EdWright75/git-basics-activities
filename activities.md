@@ -1,4 +1,4 @@
-# Git Basics Activities
+# Git Basics Activities - Changed by Ed
 
 This repository contains the reference materials for engineers who need to learn and practice the basics of version control using Git and GitHub.
 
